@@ -1,0 +1,65 @@
+.image-baqia {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.title {
+    font-family: 'Raleway', sans-serif;
+}
+
+#hero {
+    height: 93vh;
+}
+
+#about {
+    height: 93vh;
+}
+
+#skill {
+    height: 93vh;
+}
+
+#education {
+    height: 93vh;
+}
+
+#contact {
+    height: 93vh;
+}
+
+.row .image-qia {
+    width: 420px;
+    height: 320px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.text {
+    text-indent: 50px;
+    text-align: justify;
+}
+
+.card-body{ 
+    display: flex; 
+    flex-wrap: wrap; 
+    flex: 1 1 30rem; 
+    background:#D6EAF8 ; 
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1); 
+    padding: 2rem 0; 
+} 
+ 
+.card-body p{ 
+    color:rgb(31, 31, 28); 
+    font-size: 1.0rem; 
+    padding:.5rem 0; 
+} 
+ 
+.card-img-top{ 
+    height: 150px; 
+}
+
+.card-title2 {
+    height: 50px;
+}
+
